@@ -4,19 +4,21 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 8th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Jonathan Rodberg
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was building an app that would give movie information based 
+on the user input of movie title.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jrr15f.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. AJAX was used in this assignment so the page didn't need to refresh to show
+   the information.
+2. JSON was used to get the movie information from the movie database server to 
+   our web page.
+3. An API is used as the connection between this web app and the movie database.
